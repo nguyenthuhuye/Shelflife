@@ -22,7 +22,7 @@ Dưới đây là một số tính năng mà hệ thống quản lý thư viện
 
 1. Clone dự án từ GitHub:
     ```
-    git clone https://github.com/username/project.git
+    git clone https://github.com/nguyenthuhuye/Shelflife
     ```
 2. Chạy dự án bằng Maven:
     ```
